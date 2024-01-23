@@ -1,0 +1,22 @@
+{
+  "name": "@ghom/react-parallax",
+  "version": "1.0.0",
+  "description": "React rich parallax component",
+  "main": "lib/index.js",
+  "scripts": {
+    "format": "prettier --write src"
+  },
+  "prettier": {
+    "semi": false
+  },
+  "peerDependencies": {
+    "react": "^16.0.0"
+  },
+  "dependencies": {
+    "clsx": "^2.1.0",
+    "tailwind-merge": "^2.2.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.4"
+  }
+}
